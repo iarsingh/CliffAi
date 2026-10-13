@@ -1,5 +1,12 @@
 # CliffAi
 
+## Overview
+
+A placeholder repository with no source files yet, only Git metadata and a README. The README states that it will stay a placeholder until real content is added, so there is no code, feature set or setup guide to describe at this point, and nothing here should be read as a working project.
+
+- **Built with:** Nothing yet
+- **Scope:** Empty placeholder; no code exists yet.
+
 <!-- project-guide:start -->
 ## Project guide
 
